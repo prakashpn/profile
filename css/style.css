@@ -287,7 +287,7 @@ a:focus {
 
 .hero .hero-text h1 {
     color: #ffffff;
-    font-size: 40px;
+    font-size: 40px !important;
     font-weight: 700;
     letter-spacing: 3px;
     margin-bottom: 15px;
